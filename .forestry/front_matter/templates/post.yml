@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/hello-gis-blog-post.md
 - src/pages/posts/working-from-home.md
 - src/pages/posts/User-Journey-Mapping.md
 - src/pages/posts/Set-Big-Goals.md
