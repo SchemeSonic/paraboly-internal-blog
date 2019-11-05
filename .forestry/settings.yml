@@ -22,7 +22,6 @@ sections:
 - type: document
   path: src/pages/blog/index.md
   label: Blog
-  read_only: false
   templates:
   - blog
 - type: directory
