@@ -39,7 +39,6 @@ fields:
 pages:
 - src/pages/posts/hello-gis-blog-post.md
 - src/pages/posts/working-from-home.md
-- src/pages/posts/User-Journey-Mapping.md
 - src/pages/posts/Set-Big-Goals.md
 - src/pages/posts/Sales-as-Service.md
 - src/pages/posts/Design-Team-Collaborates.md
